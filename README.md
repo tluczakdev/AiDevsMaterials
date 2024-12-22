@@ -1,6 +1,6 @@
 # AiDevs Materials
 
-## AiDevs 3 
+## AiDevs 3
 
 * [S01E01](AiDevs3/S01E01/S01E01.md)
 * [S01E02](AiDevs3/S01E02/S01E02.md)
@@ -31,3 +31,30 @@
 ### preAI3
 [S00E01](AiDevs3/preAI3/S00E01.md) [S00E02](AiDevs3/preAI3/S00E02.md) [S00E03](AiDevs3/preAI3/S00E03.md) [S00E04](AiDevs3/preAI3/S00E04.md) [S00E05](AiDevs3/preAI3/S00E05.md)
 
+## AIDev2
+
+* [C01E01](AiDevs2/C01L01%20—%20Wprowadzenie%20do%20Generative%20AI.md)
+* [C01E02](AiDevs2/C01L02%20—%20Zasady%20działania%20LLM.md)
+* [C01E03](AiDevs2/C01L03%20—%20Prompt%20Design.md)
+* [C01E04](AiDevs2/C01L04%20—%20OpenAI%20API.md)
+* [C01E05](AiDevs2/C01L05%20—%20Prompt%20Engineering%202.md)
+* [C02E01](AiDevs2/C02L01%20—%20Możliwości%20modeli%20OpenAI.md)
+* [C02E02](AiDevs2/C02L02%20—%20Eksplorowanie%20i%20omijanie%20ograniczeń.md)
+* [C02E03](AiDevs2/C02L03%20—%20Eksplorowanie%20i%20omijanie%20ograniczeń.md)
+* [C02E04](AiDevs2/C02L04%20—%20Praca%20z%20własną%20bazą%20wiedzy.md)
+* [C02E05](AiDevs2/C02L05%20—%20LLM%20posługujący%20się%20narzędziami.md)
+* [C03E01](AiDevs2/C03L01%20—%20Programowanie%20w%20parze%20z%20GPT-4.md)
+* [C03E02](AiDevs2/C03L02%20—%20LLM%20w%20kodzie%20aplikacji.md)
+* [C03E03](AiDevs2/C03L03%20—%20Wyszukiwanie%20i%20bazy%20wektorowe.md)
+* [C03E04](AiDevs2/C03L04%20—%20Realizowanie%20złożonych%20zadań.md)
+* [C03E05](AiDevs2/C03L05%20—%20Produkcyjne%20zastosowania%20modeli.md)
+* [C04E01](AiDevs2/C04L01%20—%20Narzędzia%20do%20automatyzacji.md)
+* [C04E02](AiDevs2/C04L02%20—%20Automatyzacje%20z%20AI.md)
+* [C04E03](AiDevs2/C04L03%20—%20Autonomiczne%20scenariusze.md)
+* [C04E04](AiDevs2/C04L04%20—%20Własne%20API.md)
+* [C04E05](AiDevs2/C04L05%20—%20Zastosowanie%20biznesowe.md)
+* [C05E01](AiDevs2/C05L01%20—%20Koncepcja%20asystenta%20AI%20i%20planowanie%20funkcjonalności.md)
+* [C05E02](AiDevs2/C05L02%20—%20API%20Asystenta.md)
+* [C05E03](AiDevs2/C05L03%20—%20Pamięć%20długoterminowa.md)
+* [C05E04](AiDevs2/C05L04%20—%20Narzędzia%20i%20dostęp%20do%20Internetu.md)
+* [C05E05](AiDevs2/C05L05%20—%20Początek.md)
